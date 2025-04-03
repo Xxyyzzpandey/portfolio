@@ -239,7 +239,7 @@ const About: NextPage = () => {
                     <div className="timeline-box padd-15">
                       <div className="timeline shadow-dark">
                         {/* Timeline Item */}
-                        <div className="timeline-item">
+                        {/* <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
                             <i className="fa fa-calendar" /> 2019 to Present
@@ -250,7 +250,7 @@ const About: NextPage = () => {
                             software I use Photoshop, Illustrator for Graphics
                             design.
                           </p>
-                        </div>
+                        </div> */}
                         {/* Timeline Item end */}
                         {/* Timeline Item */}
                         <div className="timeline-item">
@@ -258,27 +258,22 @@ const About: NextPage = () => {
                           <h6 className="timeline-date">
                             <i className="fa fa-calendar" /> 2020 to Present
                           </h6>
-                          <h4 className="timeline-title">Web Design</h4>
+                          <h4 className="timeline-title">Self-Driven Projects</h4>
                           <p className="timeline-text">
-                            Since 2020 I started to learn Coding. I have learn
-                            Html, Css, Sass, JavaScript, Bootstrap. Now I am a
-                            Professional Web Designer..
+                          Personal Finance Visualizer – Developed a financial tracking app with Next.js, 
+                          MongoDB, and Recharts to visualize expenses and budgeting.
+
+                          GitHub Info Fetcher – Built a web tool to fetch and display GitHub user profiles 
+                          using the GitHub API and React.js.
+
+                          Alumni Management System – Created a platform for alumni to connect, utilizing 
+                          React.js, Express.js, and MongoDB.
+
+                          Paytm Wallet Architecture – Designed a digital wallet system using Next.js, PostgreSQL, 
+                          and NextAuth for authentication.
                           </p>
                         </div>
-                        {/* Timeline Item end */}
-                        {/* Timeline Item */}
-                        <div className="timeline-item">
-                          <div className="circle-dot" />
-                          <h6 className="timeline-date">
-                            <i className="fa fa-calendar" /> 2020 to Present
-                          </h6>
-                          <h4 className="timeline-title">Wordpress</h4>
-                          <p className="timeline-text">
-                            Since 2020 I started to learn Wordpress. I can
-                            install, Customize, &amp; fix bug on wordpress.{" "}
-                          </p>
-                        </div>
-                        {/* Timeline Item end */}
+                      
                       </div>
                     </div>
                   </div>

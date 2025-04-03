@@ -19,7 +19,7 @@ const Portfolio: NextPage = () => {
                   <img src="/imgs/portfolio/1.jpg" alt="portfolio" />
                 </div>
                 <div className="portfolio-info">
-                  <h4>Web Design</h4>
+                  <h4>ecommerce </h4>
                   <div className="icon">
                     <a href="https://www.google.com" className="fa fa-search" />
                   </div>
