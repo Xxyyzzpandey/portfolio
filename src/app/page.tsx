@@ -8,7 +8,7 @@ export default async function Home() {
         <div className="container">
           <div className="intro">
             <img
-              src="/imgs/alsiam.png"
+              src="/imgs/boyimage.jpg"
               alt="Al Siam Profile"
               className="shadow-dark"
             />
@@ -20,12 +20,14 @@ export default async function Home() {
               <a href="https://github.com/Xxyyzzpandey" target="_blank">
                 <i className="fa fa-github" />
               </a>
-              <a href="https://instagram.com/" target="_blank">
-                <i className="fa fa-instagram" />
+              <a href="https://leetcode.com/u/Tmetasploit/" target="_blank" rel="noopener noreferrer">
+              <i className="fa fa-code" />
               </a>
-              <a href="https://linkedin.com/in/" target="_blank">
-                <i className="fa fa-linkedin" />
+              <a href="https://www.geeksforgeeks.org/user/ujjawalanam32/" target="_blank" rel="noopener noreferrer">
+              <i className="fa fa-graduation-cap" />
               </a>
+
+
             </div>
           </div>
         </div>

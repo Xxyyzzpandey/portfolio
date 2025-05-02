@@ -16,12 +16,12 @@ const Portfolio: NextPage = () => {
             <div className="portfolio-item padd-15" data-category="web-design">
               <div className="portfolio-item-inner shadow-dark">
                 <div className="portfolio-img">
-                  <img src="/imgs/portfolio/1.jpg" alt="portfolio" />
+                  <img src="/imgs/portfolio/creresume.png" alt="portfolio" />
                 </div>
                 <div className="portfolio-info">
-                  <h4>ecommerce </h4>
+                  <h4>Resume Builder </h4>
                   <div className="icon">
-                    <a href="https://www.google.com" className="fa fa-search" />
+                    <a href="https://creresume.pandeg.xyz" className="fa fa-search" />
                   </div>
                 </div>
               </div>
@@ -31,12 +31,12 @@ const Portfolio: NextPage = () => {
             <div className="portfolio-item padd-15" data-category="web-design">
               <div className="portfolio-item-inner shadow-dark">
                 <div className="portfolio-img">
-                  <img src="/imgs/portfolio/2.jpg" alt="portfolio" />
+                  <img src="/imgs/portfolio/ecomerce.png" alt="portfolio" />
                 </div>
                 <div className="portfolio-info">
-                  <h4>Web Design</h4>
+                  <h4>Ecommerce</h4>
                   <div className="icon">
-                    <a href="" className="fa fa-search" />
+                    <a href="https://edukan.pandeg.xyz" className="fa fa-search" />
                   </div>
                 </div>
               </div>
@@ -46,12 +46,12 @@ const Portfolio: NextPage = () => {
             <div className="portfolio-item padd-15" data-category="web-design">
               <div className="portfolio-item-inner shadow-dark">
                 <div className="portfolio-img">
-                  <img src="/imgs/portfolio/3.jpg" alt="portfolio" />
+                  <img src="/imgs/portfolio/githubinfo.png" alt="portfolio" />
                 </div>
                 <div className="portfolio-info">
-                  <h4>Web Design</h4>
+                  <h4>Github info</h4>
                   <div className="icon">
-                    <a  className="fa fa-search" />
+                    <a href="https://githubinfo.pandeg.xyz" className="fa fa-search" />
                   </div>
                 </div>
               </div>
@@ -64,12 +64,12 @@ const Portfolio: NextPage = () => {
             >
               <div className="portfolio-item-inner shadow-dark">
                 <div className="portfolio-img">
-                  <img src="/imgs/portfolio/4.jpg" alt="portfolio" />
+                  <img src="/imgs/portfolio/paytime.png" alt="portfolio" />
                 </div>
                 <div className="portfolio-info">
-                  <h4>Banner Design</h4>
+                  <h4>paytm wallet</h4>
                   <div className="icon">
-                    <a className="fa fa-search" />
+                    <a href="https://paytime.pandeg.xyz" className="fa fa-search" />
                   </div>
                 </div>
               </div>
@@ -79,12 +79,12 @@ const Portfolio: NextPage = () => {
             <div className="portfolio-item padd-15" data-category="wordpress">
               <div className="portfolio-item-inner shadow-dark">
                 <div className="portfolio-img">
-                  <img src="/imgs/portfolio/5.jpg" alt="portfolio" />
+                  <img src="/imgs/portfolio/alumni.png" alt="portfolio" />
                 </div>
                 <div className="portfolio-info">
-                  <h4>Wordpress</h4>
+                  <h4>alumni management</h4>
                   <div className="icon">
-                    <a className="fa fa-search" />
+                    <a href="https://allumnimanagement.vercel.app" className="fa fa-search" />
                   </div>
                 </div>
               </div>
@@ -94,12 +94,12 @@ const Portfolio: NextPage = () => {
             <div className="portfolio-item padd-15" data-category="web-design">
               <div className="portfolio-item-inner shadow-dark">
                 <div className="portfolio-img">
-                  <img src="/imgs/portfolio/6.jpg" alt="portfolio" />
+                  <img src="/imgs/portfolio/expense.png" alt="portfolio" />
                 </div>
                 <div className="portfolio-info">
-                  <h4>Web Design</h4>
+                  <h4>expense tracker</h4>
                   <div className="icon">
-                    <a className="fa fa-search" />
+                    <a href="https://expense-tracker-5o8m.vercel.app/" className="fa fa-search" />
                   </div>
                 </div>
               </div>

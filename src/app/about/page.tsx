@@ -43,7 +43,7 @@ const About: NextPage = () => {
                   <div className="row">
                     <div className="info-item padd-15">
                       <p>
-                        Website : <span>www.urfolio.vercel.app</span>
+                        Website : <span>https://ankit.pandeg.xyz</span>
                       </p>
                     </div>
                     <div className="info-item padd-15">
@@ -75,8 +75,8 @@ const About: NextPage = () => {
                   <div className="row">
                     <div className="buttons padd-15">
                       <a
-                        href="/public/resume/resume.pdf"
-                        target="_target"
+                        href="/resume/resume.pdf"
+                        target="_blank"
                         className="btn"
                       >
                         Download CV
@@ -256,21 +256,14 @@ const About: NextPage = () => {
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
-                            <i className="fa fa-calendar" /> 2020 to Present
+                            <i className="fa fa-calendar" /> 2022 to Present
                           </h6>
                           <h4 className="timeline-title">Self-Driven Projects</h4>
                           <p className="timeline-text">
-                          Personal Finance Visualizer – Developed a financial tracking app with Next.js, 
-                          MongoDB, and Recharts to visualize expenses and budgeting.
-
-                          GitHub Info Fetcher – Built a web tool to fetch and display GitHub user profiles 
-                          using the GitHub API and React.js.
-
-                          Alumni Management System – Created a platform for alumni to connect, utilizing 
-                          React.js, Express.js, and MongoDB.
-
-                          Paytm Wallet Architecture – Designed a digital wallet system using Next.js, PostgreSQL, 
-                          and NextAuth for authentication.
+                          Developed multiple full-stack projects, including a Resume Builder, E-commerce platform, 
+                          GitHub Information Fetcher, Expense Tracker, Alumni Management System, and a Paytm-like 
+                          Digital Wallet. These projects demonstrate skills in API integration,
+                           database management, user authentication, and dynamic UI/UX development.
                           </p>
                         </div>
                       
