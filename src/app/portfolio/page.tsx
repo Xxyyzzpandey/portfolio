@@ -57,6 +57,22 @@ const Portfolio: NextPage = () => {
               </div>
             </div>
             {/* Portfolio Item End*/}
+            <div
+              className="portfolio-item padd-15"
+              data-category="graphics-design"
+            >
+              <div className="portfolio-item-inner shadow-dark">
+                <div className="portfolio-img">
+                  <img src="/imgs/portfolio/blogging.png" alt="portfolio" />
+                </div>
+                <div className="portfolio-info">
+                  <h4>Bloging app</h4>
+                  <div className="icon">
+                    <a href="https://blogingapp.vercel.app/posts" className="fa fa-search" />
+                  </div>
+                </div>
+              </div>
+            </div>
             {/* Portfolio Item */}
             <div
               className="portfolio-item padd-15"
